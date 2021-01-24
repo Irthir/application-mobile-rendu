@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="false">
+    <item android:drawable="@drawable/patisserie01" android:duration="150"/>
+    <item android:drawable="@drawable/patisserie02" android:duration="150"/>
+    <item android:drawable="@drawable/patisserie03" android:duration="150"/>
+    <item android:drawable="@drawable/patisserie04" android:duration="150"/>
+    <item android:drawable="@drawable/patisserie05" android:duration="150"/>
+    <item android:drawable="@drawable/patisserie06" android:duration="150"/>
+    <item android:drawable="@drawable/patisserie07" android:duration="150"/>
+    <item android:drawable="@drawable/patisserie08" android:duration="150"/>
+    <item android:drawable="@drawable/patisserie09" android:duration="150"/>
+    <item android:drawable="@drawable/patisserie10" android:duration="150"/>
+    <item android:drawable="@drawable/patisserie11" android:duration="150"/>
+    <item android:drawable="@drawable/patisserie12" android:duration="150"/>
+    <item android:drawable="@drawable/patisserie13" android:duration="150"/>
+    <item android:drawable="@drawable/patisserie14" android:duration="150"/>
+    <item android:drawable="@drawable/patisserie15" android:duration="150"/>
+    <item android:drawable="@drawable/patisserie16" android:duration="150"/>
+    <item android:drawable="@drawable/patisserie17" android:duration="150"/>
+    <item android:drawable="@drawable/patisserie18" android:duration="150"/>
+    <item android:drawable="@drawable/patisserie19" android:duration="150"/>
+    <item android:drawable="@drawable/patisserie20" android:duration="150"/>
+</animation-list>

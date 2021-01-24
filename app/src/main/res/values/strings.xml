@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Schlotter_Romain_liste_personnalisée_avec_recherche</string>
+    <string name="titre">Pâtisseries du chef Michel Dumas</string>
+    <string name="image">C\'est une délicieuse pâtisserie.</string>
+    <string name="nom">Éclair</string>
+    <string name="prix">1.00€</string>
+
+    <string name="eclair">Éclair</string>
+    <string name="cremebrulee">Crème Brûlée</string>
+    <string name="beignets">Beignets</string>
+    <string name="tartepoires">Tarte Amandine aux Poires</string>
+    <string name="gateauchoco">Gâteau au chocolat</string>
+
+    <string name="description_eclair">Un éclair, anciennement appelé pain à la duchesse (avant 1850) ou petite duchesse, est une pâtisserie d"'"origine française constituée de pâte à choux allongée et fourrée de crème pâtissière, avec un glaçage sur le dessus.</string>
+    <string name="description_cremebrulee">La crème brûlée, ou crème brulée, aussi appelée crème caramélisée, est un dessert composé de jaunes d"'"œufs, de sucre, de crème, de vanille et de caramel.</string>
+    <string name="description_beignet">Un beignet est un mets sucré ou salé fait d"'"une pâte assez fluide, frit dans l"'"huile.</string>
+    <string name="description_tarte">Une tarte (pour plusieurs convives) ou une tartelette (déclinaison réduite pour un seul consommateur) est un plat culinaire, constitué d"'"une pâte servant de support à une garniture qui peut être sucrée ou salée.</string>
+    <string name="description_gateau">Un gâteau au chocolat est une pâtisserie à base de chocolat. Il existe de nombreuses recettes à travers le monde. Cette forme de gâteau aurait été imaginée à la fin du xviiie siècle, après plusieurs siècles d"'"utilisation du chocolat uniquement en boisson.</string>
+
+    <string name="recette">Vidéo Recette</string>
+    <string name="menu">Retour à la sélection</string>
+    <string name="detail">Retour à la description</string>
+
+    <string name="recherche">Tapez votre recherche</string>
+    <string name="erreur">Pas de référence retournée</string>
+
+</resources>

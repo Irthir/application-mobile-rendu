@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="policenom">20sp</dimen>
+    <dimen name="policeprix">16sp</dimen>
+    <dimen name="marginpatisserie">1dp</dimen>
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Detail"
+    android:background="@drawable/pastry">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+                <ImageView
+                    android:id="@+id/imagepatisserie"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/eclair"
+                    android:contentDescription="@string/image"
+                    android:scaleType="fitXY"
+                    android:adjustViewBounds="true"
+                    />
+
+                <TextView
+                    android:id="@+id/nom"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal|center_vertical"
+                    android:text="@string/nom"
+                    android:textSize="@dimen/policenom"
+                    tools:ignore="NestedWeights"
+                    android:background="@color/monBleu"/>
+
+                <TextView
+                    android:id="@+id/description"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/description_eclair"
+                    android:textSize="@dimen/policeprix"
+                    android:background="@color/monBleuCiel"/>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <Button
+                    android:id="@+id/menu"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/menu"/>
+                <Button
+                    android:id="@+id/recette"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:text="@string/recette"/>
+            </RelativeLayout>
+
+        </LinearLayout>
+
+
+    </ScrollView>
